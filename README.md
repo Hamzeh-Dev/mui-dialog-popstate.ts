@@ -18,12 +18,12 @@ This project demonstrates how to manage multiple dialogs and sub-dialogs in a Re
   using http:
    ```bash
    https://github.com/Hamzeh-Dev/mui-dialog-popstate.ts.git
-   cd mui-dialog-popstate.ts
+   cd mui-dialog-popstate-ts
    ```
   using SSH:
    ```bash
    git clone git@github.com:Hamzeh-Dev/mui-dialog-popstate.ts.git
-   cd mui-dialog-popstate.ts
+   cd mui-dialog-popstate-ts
    ```
 
 2. Install dependencies:
