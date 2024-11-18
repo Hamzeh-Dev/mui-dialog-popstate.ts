@@ -15,8 +15,14 @@ This project demonstrates how to manage multiple dialogs and sub-dialogs in a Re
 ## Installation
 
 1. Clone the repository:
+  using http:
    ```bash
-   git clone https://github.com/yourusername/centralized-dialog-management.git
+   https://github.com/Hamzeh-Dev/mui-dialog-popstate.ts.git
+   cd mui-dialog-popstate.ts
+   ```
+  using SSH:
+   ```bash
+   git clone git@github.com:Hamzeh-Dev/mui-dialog-popstate.ts.git
    cd mui-dialog-popstate.ts
    ```
 
